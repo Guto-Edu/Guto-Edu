@@ -22,9 +22,9 @@ Atualmente, divido meu tempo construindo negócios, codando e gerenciando projet
 * Sempre aberto a discutir arquitetura de software, empreendedorismo e novos modelos de negócios (especialmente produtos digitais).
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** [Insira suas linguagens, ex: JavaScript, Python, C#]
-* **Tecnologias:** [Insira frameworks, ex: React, Node.js, etc.]
-* **Ferramentas:** Git, GitHub, [Outras ferramentas]
+* **Linguagens:** JavaScript, Python.
+* **Tecnologias:** React, Node.js.
+* **Ferramentas:** Git, GitHub, VSCode
 
 ### 📫 Como me encontrar
 
