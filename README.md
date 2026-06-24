@@ -1,17 +1,17 @@
 <div align="center">
 
 <img
- src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=1769E0&center=true&vCenter=true&width=760&lines=Engenharia+de+Produção+%7C+Software+%7C+Negócios;Criando+soluções+digitais+com+visão+de+produto;Tecnologia%2C+processos+e+execução+no+mundo+real"
+ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=1769E0&center=true&vCenter=true&width=760&lines=Production+Engineering+%7C+Software+%7C+Business;Creating+digital+solutions+with+a+product+vision;Technology%2C+processes%2C+and+execution+in+the+real+world"
  alt="Typing SVG"
 />
 
-  <br />
+ <br />
 
-  <a href="https://github.com/Guto-Edu">
-    <img src="https://img.shields.io/github/followers/Guto-Edu?label=Seguidores&style=flat-square&logo=github&logoColor=white&color=1769E0" alt="Seguidores no GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Guto-Edu&label=Visualizações&color=1769E0&style=flat-square" alt="Visualizações do perfil" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20Python-0B57C0?style=flat-square" alt="Stack principal" />
+ <a href="https://github.com/Guto-Edu">
+   <img src="https://img.shields.io/github/followers/Guto-Edu?label=Followers&style=flat-square&logo=github&logoColor=white&color=1769E0" alt="GitHub Followers" />
+ </a>
+ <img src="https://komarev.com/ghpvc/?username=Guto-Edu&label=Views&color=1769E0&style=flat-square" alt="Profile Views" />
+ <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20Python-0B57C0?style=flat-square" alt="Main Stack" />
 
 </div>
 
@@ -19,31 +19,31 @@
 
 # Augusto Silva
 
-**Estudante de Engenharia de Produção, desenvolvedor de software e empreendedor.**
+**Production Engineering student, software developer, and entrepreneur.**
 
-Gosto de transformar problemas bagunçados em sistemas organizados. Minha atuação junta a visão analítica da Engenharia de Produção com a execução prática da programação, criando soluções digitais para negócios reais, processos reais e pessoas reais.
+I like to transform messy problems into organized systems. My work combines the analytical vision of Production Engineering with the practical execution of programming, creating digital solutions for real businesses, real processes, and real people.
 
-Atualmente divido meu tempo entre desenvolvimento de software, gestão de projetos e operação de negócios próprios em São João del-Rei, MG.
+Currently, I divide my time between software development, project management, and operating my own businesses in São João del-Rei, MG.
 
-Minha linha de trabalho é simples: entender o problema, desenhar o processo, construir a solução e colocar para rodar.
+My workflow is simple: understand the problem, design the process, build the solution, and get it running.
 
 ---
 
-## O que eu faço
+## What I do
 
 <table>
   <tr>
     <td width="50%">
       <h3>BitBloom AI</h3>
       <p>
-        Software house focada no desenvolvimento de sistemas web, automações, plataformas internas e soluções digitais sob medida.
+        Software house focused on developing web systems, automations, internal platforms, and tailor-made digital solutions.
       </p>
       <a href="https://bitbloomai.com">bitbloomai.com</a>
     </td>
     <td width="50%">
       <h3>Black Brian</h3>
       <p>
-        Negócio voltado para estética automotiva e martelinho de ouro, onde precisão, processo e cuidado técnico fazem parte da entrega.
+        A business focused on automotive detailing and paintless dent repair, where precision, process, and technical care are part of the delivery.
       </p>
       <a href="https://blackbrian.com.br">blackbrian.com.br</a>
     </td>
@@ -52,86 +52,86 @@ Minha linha de trabalho é simples: entender o problema, desenhar o processo, co
 
 ---
 
-## Áreas de interesse
+## Areas of interest
 
-* Desenvolvimento de sistemas web
-* Produtos digitais e SaaS
-* Automação de processos
-* Arquitetura de software
-* Inteligência artificial aplicada a negócios
-* Gestão, operação e melhoria de processos
-* Integração entre tecnologia, engenharia e empreendedorismo
+* Web systems development
+* Digital products and SaaS
+* Process automation
+* Software architecture
+* Artificial intelligence applied to business
+* Management, operation, and process improvement
+* Integration between technology, engineering, and entrepreneurship
 
 ---
 
-## Tecnologias e ferramentas
+## Technologies and tools
 
-### Linguagens
+### Languages
 
 <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 ### Front-end
 
-<img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  <img alt="Tailwind CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  <img alt="HTML5" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img alt="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  <img alt="Tailwind CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  <img alt="HTML5" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img alt="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-### Back-end e banco de dados
+### Back-end and databases
 
-<img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  <img alt="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  <img alt="Supabase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  <img alt="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  <img alt="Supabase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 
-### Ferramentas
+### Tools
 
-<img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  <img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img alt="Vercel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-
----
-
-## Projetos e frentes que venho construindo
-
-* Sistemas web para gestão de negócios
-* Plataformas internas com dashboard, permissões e módulos administrativos
-* Automações para reduzir tarefas manuais
-* Ferramentas com foco em produtividade e documentação
-* Soluções digitais para empresas locais e produtos próprios
+<img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  <img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img alt="Vercel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 
 ---
 
-## Minha forma de pensar produto
+## Projects and initiatives I've been building
 
-Gosto de construir software olhando além da tela.
-
-Para mim, um sistema bom precisa:
-
-* resolver um problema real
-* ser simples de usar
-* ter estrutura para crescer
-* economizar tempo
-* melhorar o processo de quem usa
-* gerar valor para o negócio
-
-Código bonito é ótimo. Código bonito que resolve problema é melhor ainda.
+* Web systems for business management
+* Internal platforms with dashboards, permissions, and administrative modules
+* Automations to reduce manual tasks
+* Tools focused on productivity and documentation
+* Digital solutions for local businesses and own products
 
 ---
 
-## GitHub em números
+## My product philosophy
+
+I like to build software looking beyond the screen.
+
+For me, a good system needs to:
+
+* solve a real problem
+* be simple to use
+* have the structure to scale
+* save time
+* improve the process for those who use it
+* generate value for the business
+
+Beautiful code is great. Beautiful code that solves a problem is even better.
+
+---
+
+## GitHub in numbers
 
 <div align="center">
 
 <img
  height="165"
  src="https://github-readme-stats.vercel.app/api?username=Guto-Edu&show_icons=true&theme=transparent&hide_border=true&title_color=1769E0&icon_color=1769E0&text_color=4f6178"
- alt="Estatísticas do GitHub"
+ alt="GitHub Stats"
 />
 
 <img
  height="165"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guto-Edu&layout=compact&theme=transparent&hide_border=true&title_color=1769E0&text_color=4f6178"
- alt="Linguagens mais usadas"
+ alt="Top Languages"
 />
 
 </div>
 
 ---
 
-## Onde me encontrar
+## Where to find me
 
 <div align="center">
 
@@ -157,6 +157,6 @@ Código bonito é ótimo. Código bonito que resolve problema é melhor ainda.
 
 <div align="center">
 
-Construindo tecnologia com cabeça de engenharia, visão de negócio e mão na massa.
+Building technology with an engineering mindset, business vision, and a hands-on approach.
 
 </div>
