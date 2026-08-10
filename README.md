@@ -29,21 +29,23 @@ My workflow is simple: understand the problem, design the process, build the sol
 
 ---
 
-## What I do
+## Current Roles & Engineering Focus
 
 <table>
   <tr>
     <td width="50%">
       <h3>BitBloom AI</h3>
       <p>
-        Software house focused on developing web systems, automations, internal platforms, and tailor-made digital solutions.
+        <b>Full-Stack Developer & Co-Founder</b><br/>
+        Architecting and shipping web systems, SaaS platforms, and automated Python servers. Handling end-to-end development using Next.js, Node.js, PostgreSQL, and Supabase to deliver scalable digital solutions.
       </p>
       <a href="https://bitbloomai.com">bitbloomai.com</a>
     </td>
     <td width="50%">
       <h3>Black Brian</h3>
       <p>
-        A business focused on automotive detailing and paintless dent repair, where precision, process, and technical care are part of the delivery.
+        <b>Technical Lead & Business Owner</b><br/>
+        Engineered a responsive multi-tier management platform from scratch, including custom pricing engines and complex interactive 3D simulators, completely optimizing the operational workflow of this automotive center.
       </p>
       <a href="https://blackbrian.com.br">blackbrian.com.br</a>
     </td>
