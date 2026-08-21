@@ -19,7 +19,7 @@
 
 # Augusto Silva
 
-**Production Engineering student and Junior Software Engineer building web products for real-world business problems.**
+**Production Engineering student and Software Engineer building web products for real-world business problems.**
 
 I have hands-on experience building and shipping B2B web applications and SaaS products using JavaScript, React, Next.js, Node.js, PostgreSQL, and Supabase.
 
