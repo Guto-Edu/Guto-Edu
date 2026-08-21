@@ -19,9 +19,9 @@
 
 # Augusto Silva
 
-**Production Engineering student, software developer, and entrepreneur.**
+**Production Engineering student and Junior Software Engineer building web products for real-world business problems.**
 
-I like to transform messy problems into organized systems. My work combines the analytical vision of Production Engineering with the practical execution of programming, creating digital solutions for real businesses, real processes, and real people.
+I have hands-on experience building and shipping B2B web applications and SaaS products using JavaScript, React, Next.js, Node.js, PostgreSQL, and Supabase.
 
 Currently, I divide my time between software development, project management, and operating my own businesses in São João del-Rei, MG.
 
@@ -36,8 +36,8 @@ My workflow is simple: understand the problem, design the process, build the sol
     <td width="50%">
       <h3>BitBloom AI</h3>
       <p>
-        <b>Full-Stack Developer & Co-Founder</b><br/>
-        Architecting and shipping web systems, SaaS platforms, and automated Python servers. Handling end-to-end development using Next.js, Node.js, PostgreSQL, and Supabase to deliver scalable digital solutions.
+        <b>Co-Founder & Software Developer</b><br/>
+        Building and shipping B2B web applications and SaaS products while working across frontend, backend, databases, integrations, and deployment. My main stack includes JavaScript, React, Next.js, Node.js, PostgreSQL, and Supabase.
       </p>
       <a href="https://bitbloomai.com">bitbloomai.com</a>
     </td>
@@ -45,7 +45,7 @@ My workflow is simple: understand the problem, design the process, build the sol
       <h3>Black Brian</h3>
       <p>
         <b>Technical Lead & Business Owner</b><br/>
-        Engineered a responsive multi-tier management platform from scratch, including custom pricing engines and complex interactive 3D simulators, completely optimizing the operational workflow of this automotive center.
+        Built internal web tools for the business, including management workflows, custom pricing systems, appointment features, and an interactive WebGL vehicle tint simulator.
       </p>
       <a href="https://blackbrian.com.br">blackbrian.com.br</a>
     </td>
@@ -56,14 +56,13 @@ My workflow is simple: understand the problem, design the process, build the sol
 
 ## Areas of interest
 
-* Web systems development
-* Digital products and SaaS
-* Process automation
-* Software architecture
-* Artificial intelligence applied to business
-* Management, operation, and process improvement
-* Integration between technology, engineering, and entrepreneurship
-
+Web application development
+SaaS and digital products
+Backend and API development
+Process automation
+Applied AI
+Software design and architecture
+Business operations and technology
 ---
 
 ## Technologies and tools
@@ -88,48 +87,27 @@ My workflow is simple: understand the problem, design the process, build the sol
 
 ## Projects and initiatives I've been building
 
-* Web systems for business management
-* Internal platforms with dashboards, permissions, and administrative modules
-* Automations to reduce manual tasks
-* Tools focused on productivity and documentation
-* Digital solutions for local businesses and own products
+Real Estate Portal & CRM
+Next.js · Supabase · PostgreSQL
+Built a real estate platform combining a public property portal with an internal CRM for leads, brokers, contracts, financial information, and property management.
+
+Omni Health
+Next.js · Supabase · Gemini · Web Speech API
+Built an AI-assisted clinical documentation platform with speech transcription, structured medical notes, authentication, and patient management.
+
+Black Brian Digital Platform
+JavaScript · Supabase · WebGL
+Built internal business tools, dynamic pricing features, appointment management, and an interactive 3D vehicle tint simulator.
 
 ---
 
 ## My product philosophy
 
-I like to build software looking beyond the screen.
+I like building software around real problems rather than features in isolation.
 
-For me, a good system needs to:
+My goal is to understand the workflow first, then build something that makes it simpler, faster, or more reliable.
 
-* solve a real problem
-* be simple to use
-* have the structure to scale
-* save time
-* improve the process for those who use it
-* generate value for the business
-
-Beautiful code is great. Beautiful code that solves a problem is even better.
-
----
-
-## GitHub in numbers
-
-<div align="center">
-
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api?username=Guto-Edu&show_icons=true&theme=transparent&hide_border=true&title_color=1769E0&icon_color=1769E0&text_color=4f6178"
- alt="GitHub Stats"
-/>
-
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guto-Edu&layout=compact&theme=transparent&hide_border=true&title_color=1769E0&text_color=4f6178"
- alt="Top Languages"
-/>
-
-</div>
+I'm especially interested in products where software can replace repetitive work and improve how a business operates.
 
 ---
 
@@ -137,20 +115,16 @@ Beautiful code is great. Beautiful code that solves a problem is even better.
 
 <div align="center">
 
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
   <a href="https://github.com/Guto-Edu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://instagram.com/guto_eduardo">
-    <img src="https://img.shields.io/badge/Instagram-1769E0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
   <a href="https://bitbloomai.com">
     <img src="https://img.shields.io/badge/BitBloom_AI-0B57C0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BitBloom AI" />
-  </a>
-
-  <a href="https://blackbrian.com.br">
-    <img src="https://img.shields.io/badge/Black_Brian-102033?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Black Brian" />
   </a>
 
 </div>
